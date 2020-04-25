@@ -17,6 +17,10 @@ a {
   margin: 0 auto;
 }
 
+.header-left{
+  background-image: url(icon.png);
+}
+
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
@@ -269,3 +273,4 @@ footer {
     width: 100%;
   }
 }
+© 2020 GitHub, Inc.
