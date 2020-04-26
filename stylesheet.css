@@ -20,7 +20,10 @@ a {
 .header{
   background-image: url(header.JPEG);
   background-color: #00acee
-  float:left;
+}
+
+.header-left{
+  float:left
 }
 
 © 2020 GitHub, Inc.
