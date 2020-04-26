@@ -17,17 +17,69 @@ a {
   margin: 0 auto;
 }
 
-.header{
-  background-image: url(header.JPEG);
-  background-color: #00acee
-}
-
 .header-left{
-  float:left
+  float:left;
+  font-size: 0.8em;
+  color:#00acee;
+  }
+
+  .header-right{
+    text-align: center;
+    color:#2f4f4f;
+  }
+
+.header-right h2{
+  line-height: 0.5em;
+  font-size: 20px
+  display: inline-block;
+  text-align: center;
 }
 
-.header-right{
-  float:right;
+.header-right p{
+  line-height: 0.1em;
+  color:gray;
+}
+
+.top-wrapper h1{
+  line-height: 0.5em;
+ color:#2f4f4f;
+ font-size:20px;
+}
+
+.top-wrapper h2{
+  line-height: 0.1em;
+  color:gray;
+  font-size:15px;
+}
+
+.prof-wrapper{
+  padding-top:10px;
+}
+
+.prof{
+  line-height: 0.5em;
+  color:#2f4f4f;
+}
+
+.hash-tag{
+  line-height: 0.5em;
+  color:#00acee;
+}
+
+.year{
+  color:gray;
+}
+
+.ff{
+  line-height: 0.1em;
+  color:gray;
+  float:left;
+  padding-right: 20px;
+}
+
+.number{
+  color:#2f4f4f;
+  font-weight:bold;
 }
 
 © 2020 GitHub, Inc.
