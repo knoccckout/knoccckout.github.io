@@ -11,10 +11,10 @@ a {
   text-decoration: none;
 }
 
-header{
+.header{
   position:fixed;
 }
-  
+
 .container {
   width: 70%;
   padding: 0 15px;
@@ -42,6 +42,10 @@ header{
 .header-right p{
   line-height: 0.1em;
   color:gray;
+}
+
+.top-wrapper{
+  margin-top:50px;
 }
 
 .top-wrapper h1{
